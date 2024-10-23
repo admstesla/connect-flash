@@ -27,9 +27,6 @@
     }
   ],
   "main": "./lib",
-  "dependencies": {
-    "diff": "^7.0.0"
-  },
   "devDependencies": {
     "vows": "^0.8.3"
   },
